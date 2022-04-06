@@ -10,11 +10,11 @@ Ezzify is an online home service platform. The platform helps customers to book 
 * ADMIN - A person who manages the whole application
 ## Table of Contents
 
-   1. [Demo](Demo)
-   2. [Installation](Installation)
-   3. [Technology Stack](TechnologyStack)
-   4. [Authors](Authors)
-   5. [License](License)
+   1. [Demo](https://github.com/pesto-students/ezify-frontend-f3-alpha-1/edit/master/README.md#Demo)
+   2. [Installation](https://github.com/pesto-students/ezify-frontend-f3-alpha-1/edit/master/README.md#Installation)
+   3. [Technology Stack](https://github.com/pesto-students/ezify-frontend-f3-alpha-1/edit/master/README.md#Technology_Stack)
+   4. [Authors](https://github.com/pesto-students/ezify-frontend-f3-alpha-1/edit/master/README.md#Authors)
+   5. [License](https://github.com/pesto-students/ezify-frontend-f3-alpha-1/edit/master/README.md#License)
 
 
 ## Demo
